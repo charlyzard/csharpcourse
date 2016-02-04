@@ -1,2 +1,2 @@
 # csharpcourse
-A C# Course
+Un curso de C#
