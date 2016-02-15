@@ -34,7 +34,12 @@ namespace Ejercicio_19._1
             {
                 Console.WriteLine("Soy {0}", animal.Nombre);
                 animal.Expresarse();
+
+
+                (animal as IMascota).Jugar();
             }
+
+
 
             Console.ReadLine();
 
